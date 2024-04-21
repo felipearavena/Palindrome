@@ -8,7 +8,7 @@ class Program
         string[] array =
             {
                 "abcba",
-                "abcde",
+                "abcdetest",
                 "Mr owl ate my metal worm",
                 "Never Odd Or Even",
                 "Never Even Or Odd"
