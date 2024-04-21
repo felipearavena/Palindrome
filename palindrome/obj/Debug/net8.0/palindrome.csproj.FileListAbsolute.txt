@@ -1,0 +1,14 @@
+c:\Users\FELIPE\Documents\Project\Palindrome\palindrome\bin\Debug\net8.0\palindrome.exe
+c:\Users\FELIPE\Documents\Project\Palindrome\palindrome\bin\Debug\net8.0\palindrome.deps.json
+c:\Users\FELIPE\Documents\Project\Palindrome\palindrome\bin\Debug\net8.0\palindrome.runtimeconfig.json
+c:\Users\FELIPE\Documents\Project\Palindrome\palindrome\bin\Debug\net8.0\palindrome.dll
+c:\Users\FELIPE\Documents\Project\Palindrome\palindrome\bin\Debug\net8.0\palindrome.pdb
+c:\Users\FELIPE\Documents\Project\Palindrome\palindrome\obj\Debug\net8.0\palindrome.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\FELIPE\Documents\Project\Palindrome\palindrome\obj\Debug\net8.0\palindrome.AssemblyInfoInputs.cache
+c:\Users\FELIPE\Documents\Project\Palindrome\palindrome\obj\Debug\net8.0\palindrome.AssemblyInfo.cs
+c:\Users\FELIPE\Documents\Project\Palindrome\palindrome\obj\Debug\net8.0\palindrome.csproj.CoreCompileInputs.cache
+c:\Users\FELIPE\Documents\Project\Palindrome\palindrome\obj\Debug\net8.0\palindrome.dll
+c:\Users\FELIPE\Documents\Project\Palindrome\palindrome\obj\Debug\net8.0\refint\palindrome.dll
+c:\Users\FELIPE\Documents\Project\Palindrome\palindrome\obj\Debug\net8.0\palindrome.pdb
+c:\Users\FELIPE\Documents\Project\Palindrome\palindrome\obj\Debug\net8.0\palindrome.genruntimeconfig.cache
+c:\Users\FELIPE\Documents\Project\Palindrome\palindrome\obj\Debug\net8.0\ref\palindrome.dll
